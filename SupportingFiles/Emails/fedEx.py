@@ -51,7 +51,7 @@ def build_body(variable_dict):
     msg['To'] = 'EMPADDR'
     msg['Subject'] = 'Undeliverable Package'
     msg['Date'] = currentDate
-    msg['message-id'] = msgid
+    msg['Message-Id'] = msgid
 
 
     # Create the body of the message (a plain-text and an HTML version).
