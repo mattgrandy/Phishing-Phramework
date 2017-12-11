@@ -9,7 +9,6 @@
 #  Now GIT Enabled :)                  #
 #                                      #
 #  Created by Matt Grandy              #
-#  Email: grandy[at]redteamsecure.com  #
 #                                      #
 #                                      #
 ########################################
