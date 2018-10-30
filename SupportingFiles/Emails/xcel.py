@@ -169,7 +169,7 @@ that we may contact you via email at EMPADDR.
                 Allconnect respects your
                 <a href="http://www.allconnect.com/pages/privacy_policy.html" target="_blank">privacy
                 </a>. As an Allconnect customer, you agreed that we may contact you via email at
-                <a href="mailto:kurt.muhl@gmail.com" target="_blank">EMPADDR
+                <a href="mailto:test@test.com" target="_blank">EMPADDR
                 </a>.<span style="FONT-SIZE:7.5pt;FONT-FAMILY:Arial">If you no longer wish to receive emails,please select the link below:<br>
                 <a href="https://www.allconnect.com/account/emailPreferences.html?=" target="_blank">https://www.allconnect.com/account/emailPreferences.html
                 </a></span>
